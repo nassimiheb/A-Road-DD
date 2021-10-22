@@ -1,0 +1,10 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: /content/Data_seq_75_15_10/images/train
+val: /content/Data_seq_75_15_10/images/val
+test: /content/Data_seq_75_15_10/images/test
+
+# number of classes
+nc: 5
+
+# class names
+names: ['D00:Vertical cracks','D10:Horizontal cracks','D20:pavement','D40:Pothholes','D50:water']

@@ -1,0 +1,7 @@
+*cache*
+*vscode*
+test.py
+routes.txt
+trips_data/*
+yolov5s.pt
+#trip_images_save/*
